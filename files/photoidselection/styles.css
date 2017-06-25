@@ -391,3 +391,21 @@
   left:-3px;
   top:-2px;
 }
+#u787 {
+  position:absolute;
+  left:27px;
+  top:220px;
+  width:221px;
+  height:37px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u788 {
+  position:absolute;
+  left:33px;
+  top:269px;
+  width:221px;
+  height:37px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
